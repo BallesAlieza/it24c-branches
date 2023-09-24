@@ -1,2 +1,1 @@
-Hi I am Alieza
-and this line was written on branch1 commit1
+Hi i am alieza
